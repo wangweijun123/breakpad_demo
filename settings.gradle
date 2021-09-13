@@ -1,0 +1,3 @@
+include ':breakpad-build'
+include ':app'
+rootProject.name = "Chapter01_me"
