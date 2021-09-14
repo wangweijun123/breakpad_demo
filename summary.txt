@@ -1,2 +1,5 @@
 minidump_stackwalk.exe 在as安装目录下 as\bin\lldb\bin
 1 minidump_stackwalk 259470d9-7d22-4fdb-69a2009d-8cb5570a.dmp >crashLog.txt
+
+
+2 addr2line  地址转换成行号
